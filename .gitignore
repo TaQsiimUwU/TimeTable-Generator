@@ -88,11 +88,6 @@ dist/
 dist-ssr/
 *.local
 
-# Database files
-*.db
-*.sqlite
-*.sqlite3
-
 # Python
 __pycache__/
 *.py[cod]
