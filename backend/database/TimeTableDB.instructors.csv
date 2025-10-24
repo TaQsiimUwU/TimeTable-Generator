@@ -1,40 +1,40 @@
-_id,instructorName,role,preferedSlots,qualifiedCourses[0],qualifiedCourses[1],qualifiedCourses[2],qualifiedCourses[3],qualifiedCourses[4],qualifiedCourses[5],__v
-68f14bc721b2f1531c986109,Dr. Ayman Arafa,Prof,Sunday,MTH 111,ACM 215,,,,,0
-68f14bc721b2f1531c98610a,Dr. Adel Fathy,Prof,Wednesday,PHY 113,,,,,,0
-68f14bc721b2f1531c98610b,Dr. Sherine Elmotasem,Prof,Monday,LRA 101,,,,,,0
-68f14bc721b2f1531c98610c,Prof. Ahmed Allam,Prof,Thursday,ECE 111,,,,,,0
-68f14bc721b2f1531c98610d,Dr. Sameh Sherif,Prof,Sunday,ECE 111,BIF 412,BIF 411,,,,0
-68f14bc721b2f1531c98610e,Dr. Ahmed Arafa,Prof,Tuesday,CSC 211,AID 413,AID 427,CNC 411,,,0
-68f14bc721b2f1531c98610f,Dr. Ahmed Anter,Prof,Wednesday,CNC 111,AID 311,SPS 315,,,,0
-68f14bc721b2f1531c986110,Prof. Mostafa Soliman,Prof,Monday,CSE 214,CSC 115,CSC 315,,,,0
-68f14bc721b2f1531c986111,Dr. Ahmed Abdel-Malk,Prof,Thursday,ECE 324,,,,,,0
-68f14bc721b2f1531c986112,Dr. Ahmed Bayumi,Prof,Sunday,CSC 415,AID 312,AID 428,,,,0
-68f14bc721b2f1531c986113,Dr. Hataba,Prof,Tuesday,CNC 418,CNC 419,CSC 317,,,,0
-68f14bc721b2f1531c986114,Dr. Reda Elbasiony,Prof,Wednesday,CSC 111,CNC 312,,,,,0
-68f14bc721b2f1531c986115,Prof. Samir Ahmed,Prof,Monday,CNC 311,CNC 413,,,,,0
-68f14bc721b2f1531c986116,Dr. Mohamed Issa,Prof,Thursday,BIF 425,CNC 314,AID 417,,,,0
-68f14bc721b2f1531c986117,Dr. Mustafa AlSayed,Prof,Sunday,CSC 426,CSC 412,CNC 415,CSC 414,CSC 314,,0
-68f14bc721b2f1531c986118,Dr. Mohamed Akhames,Prof,Tuesday,CSC 410,CSC 411,CNC 324,BIF 424,,,0
-68f14bc721b2f1531c986119,Prof. Marghany Hassan,Prof,Wednesday,BIF 413,AID 321,AID 411,CSC 114,,,0
-68f14bc721b2f1531c98611a,Prof. Eman Allam,Prof,Thursday,BIF 311,,,,,,0
-68f14bc721b2f1531c98611b,Eng. Salma Waleed,Eng,Sunday,AID 311,AID 312,,,,,0
-68f14bc721b2f1531c98611c,Eng. Nourhan Waleed,Eng,Monday,AID 312,CNC 314,,,,,0
-68f14bc721b2f1531c98611d,Eng. Salma Alashry,Eng,Tuesday,AID 321,CNC 314,CSC 114,,,,0
-68f14bc721b2f1531c98611e,Eng. Nada Essam,Eng,Wednesday,AID 411,BIF 425,,,,,0
-68f14bc721b2f1531c98611f,Eng. Fatma Elsayed,Eng,Thursday,AID 417,CNC 311,,,,,0
-68f14bc721b2f1531c986120,Eng. Mariem Nagy,Eng,Sunday,AID 413,CSC 111,,,,,0
-68f14bc721b2f1531c986121,Eng. Zeina Ahmed,Eng,Monday,AID 427,AID 428,CSC 115,,,,0
-68f14bc721b2f1531c986122,Eng. Zeina Shreif,Eng,Tuesday,AID 427,CSC 314,CSC 410,CSC 426,,,0
-68f14bc721b2f1531c986123,Eng. Omnia Shehata,Eng,Wednesday,AID 321,AID 428,CNC 111,CSC 115,,,0
-68f14bc721b2f1531c986124,Eng. Nour Akram,Eng,Sunday,BIF 412,CSC 111,CSC 315,,,,0
-68f14bc721b2f1531c986125,Eng. Nouran Moussa,Eng,Monday,BIF 413,BIF 424,BIF 425,CSC 115,CSC 414,CSC 415,0
-68f14bc721b2f1531c986126,Eng. Heba Abdelkader,Eng,Tuesday,CNC 111,CSE 214,,,,,0
-68f14bc721b2f1531c986127,Eng. Menna Hamdy,Eng,Wednesday,CNC 111,CNC 312,,,,,0
-68f14bc721b2f1531c986128,Eng. Sama Osama,Eng,Thursday,CNC 324,CNC 411,CNC 419,,,,0
-68f14bc721b2f1531c986129,Eng. Mariam Ismael,Eng,Sunday,CNC 411,CSC 111,,,,,0
-68f14bc721b2f1531c98612a,Eng. Aya Tarek,Eng,Monday,CNC 413,CNC 418,CSC 412,,,,0
-68f14bc721b2f1531c98612b,Eng. Nada Ahmed,Eng,Tuesday,CSC 211,CSC 317,,,,,0
-68f14bc721b2f1531c98612c,Eng. Menna Magdy,Eng,Wednesday,CSC 211,CSC 317,,,,,0
-68f14bc721b2f1531c98612d,Eng. Omnya Ramadan,Eng,Thursday,CSE 214,CSC 115,,,,,0
-68f14bc721b2f1531c98612e,Eng. yyy,Eng,Sunday,CNC 413,CNC 415,CNC 419,CSC 115,,,0
-68f14bc721b2f1531c98612f,Eng. Sama Elkassaby,Eng,Monday,AID 312,CNC 111,CSC 411,,,,0
+instructorName,role,preferedSlots,qualifiedCourses[0],qualifiedCourses[1],qualifiedCourses[2],qualifiedCourses[3],qualifiedCourses[4],qualifiedCourses[5],__v
+Dr. Ayman Arafa,Prof,Sunday,MTH 111,ACM 215,,,,,0
+Dr. Adel Fathy,Prof,Wednesday,PHY 113,,,,,,0
+Dr. Sherine Elmotasem,Prof,Monday,LRA 101,,,,,,0
+Prof. Ahmed Allam,Prof,Thursday,ECE 111,,,,,,0
+Dr. Sameh Sherif,Prof,Sunday,ECE 111,BIF 412,BIF 411,,,,0
+Dr. Ahmed Arafa,Prof,Tuesday,CSC 211,AID 413,AID 427,CNC 411,,,0
+Dr. Ahmed Anter,Prof,Wednesday,CNC 111,AID 311,SPS 315,,,,0
+Prof. Mostafa Soliman,Prof,Monday,CSE 214,CSC 115,CSC 315,,,,0
+Dr. Ahmed Abdel-Malk,Prof,Thursday,ECE 324,,,,,,0
+Dr. Ahmed Bayumi,Prof,Sunday,CSC 415,AID 312,AID 428,,,,0
+Dr. Hataba,Prof,Tuesday,CNC 418,CNC 419,CSC 317,,,,0
+Dr. Reda Elbasiony,Prof,Wednesday,CSC 111,CNC 312,,,,,0
+Prof. Samir Ahmed,Prof,Monday,CNC 311,CNC 413,,,,,0
+Dr. Mohamed Issa,Prof,Thursday,BIF 425,CNC 314,AID 417,,,,0
+Dr. Mustafa AlSayed,Prof,Sunday,CSC 426,CSC 412,CNC 415,CSC 414,CSC 314,,0
+Dr. Mohamed Akhames,Prof,Tuesday,CSC 410,CSC 411,CNC 324,BIF 424,,,0
+Prof. Marghany Hassan,Prof,Wednesday,BIF 413,AID 321,AID 411,CSC 114,,,0
+Prof. Eman Allam,Prof,Thursday,BIF 311,,,,,,0
+Eng. Salma Waleed,Eng,Sunday,AID 311,AID 312,,,,,0
+Eng. Nourhan Waleed,Eng,Monday,AID 312,CNC 314,,,,,0
+Eng. Salma Alashry,Eng,Tuesday,AID 321,CNC 314,CSC 114,,,,0
+Eng. Nada Essam,Eng,Wednesday,AID 411,BIF 425,,,,,0
+Eng. Fatma Elsayed,Eng,Thursday,AID 417,CNC 311,,,,,0
+Eng. Mariem Nagy,Eng,Sunday,AID 413,CSC 111,,,,,0
+Eng. Zeina Ahmed,Eng,Monday,AID 427,AID 428,CSC 115,,,,0
+Eng. Zeina Shreif,Eng,Tuesday,AID 427,CSC 314,CSC 410,CSC 426,,,0
+Eng. Omnia Shehata,Eng,Wednesday,AID 321,AID 428,CNC 111,CSC 115,,,0
+Eng. Nour Akram,Eng,Sunday,BIF 412,CSC 111,CSC 315,,,,0
+Eng. Nouran Moussa,Eng,Monday,BIF 413,BIF 424,BIF 425,CSC 115,CSC 414,CSC 415,0
+Eng. Heba Abdelkader,Eng,Tuesday,CNC 111,CSE 214,,,,,0
+Eng. Menna Hamdy,Eng,Wednesday,CNC 111,CNC 312,,,,,0
+Eng. Sama Osama,Eng,Thursday,CNC 324,CNC 411,CNC 419,,,,0
+Eng. Mariam Ismael,Eng,Sunday,CNC 411,CSC 111,,,,,0
+Eng. Aya Tarek,Eng,Monday,CNC 413,CNC 418,CSC 412,,,,0
+Eng. Nada Ahmed,Eng,Tuesday,CSC 211,CSC 317,,,,,0
+Eng. Menna Magdy,Eng,Wednesday,CSC 211,CSC 317,,,,,0
+Eng. Omnya Ramadan,Eng,Thursday,CSE 214,CSC 115,,,,,0
+Eng. yyy,Eng,Sunday,CNC 413,CNC 415,CNC 419,CSC 115,,,0
+Eng. Sama Elkassaby,Eng,Monday,AID 312,CNC 111,CSC 411,,,,0

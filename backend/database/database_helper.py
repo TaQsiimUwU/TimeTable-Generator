@@ -19,7 +19,7 @@ class TimeTableDB:
             db_path: Path to SQLite database. If None, uses default location.
         """
         if db_path is None:
-            db_path = Path(__file__).parent / 'database' / 'timetable.db'
+            db_path = Path(__file__).parent / 'timetable.db'
 
         self.db_path = str(db_path)
         self._check_database_exists()

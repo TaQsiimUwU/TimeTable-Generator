@@ -1,47 +1,47 @@
-_id,roomId,capacity,type,labType,__v
-68f27dc98177f4d3e323fb6e,B07 F1.01,25,Lecture,,0
-68f27dc98177f4d3e323fb6f,B07 F1.02,25,Lecture,,0
-68f27dc98177f4d3e323fb70,B07 F1.20,25,Lecture,,0
-68f27dc98177f4d3e323fb71,B07 F1.21,25,Lecture,,0
-68f27dc98177f4d3e323fb72,B07 F1.22,25,Lecture,,0
-68f27dc98177f4d3e323fb73,B07 F1.23,25,Lecture,,0
-68f27dc98177f4d3e323fb74,B07 F1.24,25,Lecture,,0
-68f27dc98177f4d3e323fb75,B07 G01,75,Lecture,,0
-68f27dc98177f4d3e323fb76,B07 G12,25,Lecture,,0
-68f27dc98177f4d3e323fb77,B18 F1.01,50,Lecture,,0
-68f27dc98177f4d3e323fb78,B18 F1.02,25,Lecture,,0
-68f27dc98177f4d3e323fb79,B18 F1.05,50,Lecture,,0
-68f27dc98177f4d3e323fb7a,B18 F1.08,25,Lecture,,0
-68f27dc98177f4d3e323fb7b,B18 F1.10,50,Lecture,,0
-68f27dc98177f4d3e323fb7c,B18 F1.12,25,Lecture,,0
-68f27dc98177f4d3e323fb7d,B18 F1.13,25,Lecture,,0
-68f27dc98177f4d3e323fb7e,B18 F1.19,50,Lecture,,0
-68f27dc98177f4d3e323fb7f,B18 F1.20,25,Lecture,,0
-68f27dc98177f4d3e323fb80,B18 G02,25,Lecture,,0
-68f27dc98177f4d3e323fb81,B18 G04,25,Lecture,,0
-68f27dc98177f4d3e323fb82,B18 G08,75,Lecture,,0
-68f27dc98177f4d3e323fb83,B18 G09,50,Lecture,,0
-68f27dc98177f4d3e323fb84,B18 G11,25,Lecture,,0
-68f27dc98177f4d3e323fb85,B18 G12,25,Lecture,,0
-68f27dc98177f4d3e323fb86,B18 G13,50,Lecture,,0
-68f27dc98177f4d3e323fb87,B25 F1.19,100,Lecture,,0
-68f27dc98177f4d3e323fb88,Theater B07,100,Lecture,,0
-68f27dc98177f4d3e323fb89,Theater B08,100,Lecture,,0
-68f27dc98177f4d3e323fb8a,Theater B09,100,Lecture,,0
-68f27dc98177f4d3e323fb8b,Theater B10,100,Lecture,,0
-68f27dc98177f4d3e323fb8c,LAB B17 G16,50,Lab,,0
-68f27dc98177f4d3e323fb8d,LAB B07 G12,50,Lab,,0
-68f27dc98177f4d3e323fb8e,LAB B17 G01,50,Lab,,0
-68f27dc98177f4d3e323fb8f,LAB B17 G22,50,Lab,,0
-68f27dc98177f4d3e323fb90,LAB B18 G01,50,Lab,,0
-68f27dc98177f4d3e323fb91,LAB B18 G05,50,Lab,,0
-68f27dc98177f4d3e323fb92,LAB B18 G14,50,Lab,,0
-68f27dc98177f4d3e323fb93,LAB B18 G17,50,Lab,,0
-68f27dc98177f4d3e323fb94,LAB B7 F1.04,50,Lab,Digital Logic,0
-68f27dc98177f4d3e323fb95,LAB COE PHY LAB,50,Lab,Physics,0
-68f27dc98177f4d3e323fb96,LAB B17 G16,50,Lab,,0
-68f27dc98177f4d3e323fb97,LAB B17 G17,50,Lab,,0
-68f27dc98177f4d3e323fb98,blue hall,150,Lecture
-68f27dc98177f4d3e323fb99,red hall,150,Lecture
-68f27dc98177f4d3e323fb9a,yellow hall,150,Lecture
-68f27dc98177f4d3e323fb9b,green hall,150,Lecture
+roomId,capacity,type,labType,__v
+B07 F1.01,25,Lecture,,0
+B07 F1.02,25,Lecture,,0
+B07 F1.20,25,Lecture,,0
+B07 F1.21,25,Lecture,,0
+B07 F1.22,25,Lecture,,0
+B07 F1.23,25,Lecture,,0
+B07 F1.24,25,Lecture,,0
+B07 G01,75,Lecture,,0
+B07 G12,25,Lecture,,0
+B18 F1.01,50,Lecture,,0
+B18 F1.02,25,Lecture,,0
+B18 F1.05,50,Lecture,,0
+B18 F1.08,25,Lecture,,0
+B18 F1.10,50,Lecture,,0
+B18 F1.12,25,Lecture,,0
+B18 F1.13,25,Lecture,,0
+B18 F1.19,50,Lecture,,0
+B18 F1.20,25,Lecture,,0
+B18 G02,25,Lecture,,0
+B18 G04,25,Lecture,,0
+B18 G08,75,Lecture,,0
+B18 G09,50,Lecture,,0
+B18 G11,25,Lecture,,0
+B18 G12,25,Lecture,,0
+B18 G13,50,Lecture,,0
+B25 F1.19,100,Lecture,,0
+Theater B07,100,Lecture,,0
+Theater B08,100,Lecture,,0
+Theater B09,100,Lecture,,0
+Theater B10,100,Lecture,,0
+LAB B17 G16,50,Lab,,0
+LAB B07 G12,50,Lab,,0
+LAB B17 G01,50,Lab,,0
+LAB B17 G22,50,Lab,,0
+LAB B18 G01,50,Lab,,0
+LAB B18 G05,50,Lab,,0
+LAB B18 G14,50,Lab,,0
+LAB B18 G17,50,Lab,,0
+LAB B7 F1.04,50,Lab,Digital Logic,0
+LAB COE PHY LAB,50,Lab,Physics,0
+LAB B17 G16,50,Lab,,0
+LAB B17 G17,50,Lab,,0
+blue hall,150,Lecture,,
+red hall,150,Lecture,,
+yellow hall,150,Lecture,,
+green hall,150,Lecture,,
